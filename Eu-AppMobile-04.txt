@@ -1,1 +1,1 @@
-On a vue en detail comment faire un parcoure utilisateur pour le mobile
+on a vue en détail ce qu'est le parcour utilisateur sur ue application mobile
